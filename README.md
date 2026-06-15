@@ -15,5 +15,4 @@ Creative and driven IT student with skills in UI/UX design and web development. 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanchali-rif&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Sanchali Saha profile views](https://u8views.com/api/v1/github/profiles/205118346/views/day-week-month-total-count.svg)](https://u8views.com/github/Sanchali-rif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
