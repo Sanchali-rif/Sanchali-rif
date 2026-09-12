@@ -55,7 +55,7 @@
 ### AI / ML & Data
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,jupyter,streamlit,anaconda&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,jupyter,streamlit,anaconda,matplotlib,seaborn&perline=5&theme=dark" />
 </p>
 
 ### Databases
