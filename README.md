@@ -5,7 +5,7 @@
 <p align="center">
   <h1 align="center">👋 Hi, I'm Sanchali Saha</h1>
   <p align="center">
-    <strong>Full Stack Developer | AI/ML Enthusiast | Data & UI Enthusiast</strong>
+    <strong>Web Developer | AI/ML Enthusiast | Data & UI Enthusiast</strong>
   </p>
 </p>
 
