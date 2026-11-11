@@ -77,9 +77,13 @@
 </p>
 
 ---
+# 🐟 My Koi:
    <p align="center">
      <img src="koi/koi.gif" width="256" alt="My koi" />
    </p>
+   <p align="center">
+  <sub>Redrawn every night from my public GitHub activity. Colors = my languages, size = my contributions, fins = my streak.</sub>
+</p>
    
 ---
 
