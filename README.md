@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=sanchali-rif&theme=github-dark&label=Sanchali%20Saha" width="100%" alt="Sanchali Saha" />
-</p>
+   <p align="center">
+     <img src="header.svg" alt="sanchali-rif" width="100%" />
+   </p>
 
 <p align="center">
   <h1 align="center">👋 Hi, I'm Sanchali Saha</h1>
