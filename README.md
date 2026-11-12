@@ -43,37 +43,37 @@
 ### Frontend
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,framer&perline=4&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=react,vite,tailwind,framer&perline=4" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express&perline=2&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=nodejs,express&perline=2" />
 </p>
 
 ### AI / ML & Data
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,jupyter,streamlit,anaconda,matplotlib,seaborn,scikitlearn&perline=8&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,jupyter,streamlit,anaconda,matplotlib,seaborn,scikitlearn&perline=8" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,supabase,firebase&perline=4&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=mongodb,mysql,supabase,firebase&perline=4" />
 </p>
 
 ### Cloud & Deployment
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,render&perline=2&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=vercel,render&perline=2" />
 </p>
 
 ### Tools & Design
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,figma,canva&perline=5&theme=dark" />
+  <img src="https://skills.syvixor.com/api/icons?i=git,github,postman,figma,canva&perline=5" />
 </p>
 
 ---
